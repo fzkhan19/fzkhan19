@@ -12,9 +12,9 @@
   <h1>Hey there 👋</h1>
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdid3c4cXMzZDZnbDg3aTltMjVjNDZ5YTdoeTBnZ3J4eWRlc2k2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RcsonxhFOqAdOiHeWB/giphy.gif" width="400" height="300"/>
-</div>
+</div>-->
 
 ### 👨‍💻 About Me :
 I am **Faiz Khan**, a passionate Full Stack Developer <img src="https://media.giphy.com/media/LfCZ95mmk0MFqx40t8/giphy.gif" width="50"> from India. I thrive on turning ideas into reality through coding. With a strong foundation in both frontend and backend development, I love creating dynamic and responsive web applications.
